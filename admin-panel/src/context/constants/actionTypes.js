@@ -1,0 +1,43 @@
+// AUTH --------------
+export const LOGIN_START='LOGIN_START';
+export const LOGIN_SUCCESS='LOGIN_SUCCESS';
+export const LOGIN_FAILURE='LOGIN_FAILURE';
+export const LOGOUT='LOGOUT';
+
+// MOVIES -----------------------
+export const GET_MOVIES_START='GET_MOVIES_START';
+export const GET_MOVIES_SUCCESS='GET_MOVIES_SUCCESS';
+export const GET_MOVIES_FAILURE='GET_MOVIES_FAILURE';
+
+export const DELETE_MOVIE_START='DELETE_MOVIE_START';
+export const DELETE_MOVIE_SUCCESS='DELETE_MOVIE_SUCCESS';
+export const DELETE_MOVIE_FAILURE='DELETE_MOVIE_FAILURE';
+
+export const CREATE_MOVIE_START='CREATE_MOVIE_START';
+export const CREATE_MOVIE_SUCCESS='CREATE_MOVIE_START';
+export const CREATE_MOVIE_FAILURE='CREATE_MOVIE_START';
+
+export const UPDATE_MOVIE_START='UPDATE_MOVIE_START';
+export const UPDATE_MOVIE_SUCCESS='UPDATE_MOVIE_SUCCESS'; 
+export const UPDATE_MOVIE_FAILURE='UPDATE_MOVIE_FAILURE';
+
+// LIST --------------------------------------------------
+// ----------------------------------------------------------
+// ----------------------------------------------------------
+
+export const GET_LISTS_START='GET_LISTS_START';
+export const GET_LISTS_SUCCESS='GET_LISTS_SUCCESS';
+export const GET_LISTS_FAILURE='GET_LISTS_FAILURE';
+
+
+export const DELETE_LISTS_START='DELETE_LISTS_START';
+export const DELETE_LISTS_SUCCESS='DELETE_LISTS_SUCCESS';
+export const DELETE_LISTS_FAILURE='DELETE_LISTS_FAILURE';
+
+export const UPDATE_LISTS_START='UPDATE_LISTS_START';
+export const UPDATE_LISTS_SUCCESS='UPDATE_LISTS_SUCCESS';
+export const UPDATE_LISTS_FAILURE='UPDATE_LISTS_FAILURE';
+
+export const CREATE_LIST_START='CREATE_LIST_START';
+export const CREATE_LIST_SUCCESS='CREATE_LIST_SUCCESS';
+export const CREATE_LIST_FAILURE='CREATE_LIST_FAILURE';
